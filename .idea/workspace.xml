@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe7e4bd9-86b2-4dd7-9762-0dc2f927bf7f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Za92cl0iz2KHBCgpK7IU64AlUk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.LeaderTest">
+    <configuration name="All in Homework" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DualFighterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DualFighterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeaderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeaderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeaderTest.getName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LeaderTest" />
+      <option name="METHOD_NAME" value="getName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NapoleonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NapoleonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LeaderTest" />
+        <item itemvalue="JUnit.All in Homework" />
+        <item itemvalue="JUnit.LeaderTest.getName" />
+        <item itemvalue="JUnit.NapoleonTest" />
+        <item itemvalue="JUnit.DualFighterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe7e4bd9-86b2-4dd7-9762-0dc2f927bf7f" name="Default Changelist" comment="" />
+      <created>1585066131994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585066131994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser" timestamp="1585073346411">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585073346411" />
+    <state x="453" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585071670082" />
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585072011760">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="414" y="266" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585072011760" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1585075031860">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585075031860" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585071847632" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.721/-1920.23.1920.1057@0.23.1280.721" timestamp="1585074689111" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1585075031854">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585075031854" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585071847627" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.721/-1920.23.1920.1057@0.23.1280.721" timestamp="1585074689105" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1585075031852">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585075031852" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585071847625" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.721/-1920.23.1920.1057@0.23.1280.721" timestamp="1585074689103" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1585075031858">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@0.0.1280.800" timestamp="1585075031858" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800/-1920.23.1920.1057@0.0.1280.800" timestamp="1585071847629" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.721/-1920.23.1920.1057@0.23.1280.721" timestamp="1585074689109" />
+  </component>
+</project>
